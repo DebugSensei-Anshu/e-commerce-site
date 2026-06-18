@@ -12,7 +12,7 @@ const products = [
     id: 2,
     name: "Headphones",
     price: 199,
-    image: "images/headphones.jpg"
+    image: "images/Headphones.jpg"
   },
   {
     id: 3,
